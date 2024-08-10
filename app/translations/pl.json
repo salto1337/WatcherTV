@@ -1,0 +1,15 @@
+{
+	"first_link": "Filmy",
+	"second_link": "Seriale",
+	"best_films": "Najlepsze Produkcje Filmowe",
+	"tv_series": "Najlepiej Oceniane Seriale",
+	"header_title": "Odkryj Najlepsze Filmy i Seriale: Twoje Centrum Rozrywki Online",
+	"header_desc": "Znajdź recenzje, rankingi i rekomendacje najnowszych oraz klasycznych filmów i seriali. Poznaj ciekawostki, przeczytaj opinie i bądź na bieżąco z nowościami w świecie kina i telewizji.",
+	"loading": "Ładowanie...",
+	"placeholder": "Wpisz nazwę...",
+	"ratings": "Oceny:",
+	"releaseDate": "Data wydania:",
+	"footer_desc": "Platforma dedykowana miłośnikom filmów i seriali.",
+	"type_tv": "Film",
+	"type_series": "Serial"
+}

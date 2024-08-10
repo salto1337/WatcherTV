@@ -1,0 +1,15 @@
+{
+	"first_link": "Movies",
+	"second_link": "TV Shows",
+	"best_films": "The best film productions",
+	"tv_series": "The highest-rated TV series",
+	"header_title": "Discover the Best Movies and TV Shows: Your Online Entertainment Hub",
+	"header_desc": "Find reviews, rankings, and recommendations for the latest and classic movies and TV shows. Explore interesting facts, read opinions, and stay updated with the latest news in the world of cinema and television.",
+	"loading": "Loading...",
+	"placeholder": "Enter name...",
+	"ratings": "ratings:",
+	"releaseDate": "Release date:",
+	"footer_desc": "A platform dedicated to movie and TV series enthusiasts.",
+	"type_tv": "Movie",
+	"type_series": "Tv series"
+}
